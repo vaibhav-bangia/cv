@@ -1,0 +1,21 @@
+body {
+  background-color: #f1f1f1;
+}
+h1 {
+  color: #005F99;
+  font-family: Papyrus;
+  font-size: 50px;
+
+}
+h1:hover{
+	font-size: 60px;
+}
+h3 {
+  color: #005F99;
+}
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
